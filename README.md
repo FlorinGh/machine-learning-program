@@ -1,7 +1,7 @@
 # Machine Learning Programme
 
 ### Objectives:
-* Get a strong foundation in data analysis, articificial intelligence and machine learning.  
+* Get a strong foundation in data analysis, artificial intelligence and machine learning.  
 * Build relevant projects to acquire even more skills and combine them in creative ways.  
 * Get job in the industry.  
 
